@@ -1,0 +1,16 @@
+{
+  "Name": "SeesawMoveNut",
+  "Author": "MTLenz",
+  "Description": "Bolt Lifts from SMG1 ported as a ProductMapObjDataTable class.",
+  "ModuleData": [
+    {
+      "ProductMapObj": [
+        {
+          "Name": "SeesawMoveNut",
+          "Function": "createExtActor<SeesawMoveNut>",
+          "Include": "SeesawMoveNut.h"
+        }
+      ]
+    }
+  ]
+}
